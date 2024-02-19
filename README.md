@@ -4,11 +4,11 @@
 
 ## Introduction
 
-__How They DevOps__ is a curated knowledge repository on DevOps related topics - CI/CD
+__How They DevOps__ is a curated knowledge repository on DevOps-related topics - CI/CD
 
-There are many ways to practice DevOps. Fortunately, many companies are willing to share how they do it. I believe there is much to learn from this documented use cases and published resources. The content you'll find in this repository is a list of such resources.
+There are many ways to practice DevOps. Fortunately, many companies are willing to share how they do it. I believe there is much to learn from these documented use cases and published resources. The content you'll find in this repository is a list of such resources.
 
-The reosurces are indexed by companies, technologies, years and DevOps related topics
+The resources are indexed by companies, technologies, years, and DevOps-related topics
 
 Happy Learning!
 
@@ -27,6 +27,7 @@ Happy Learning!
   <summary>Airbnb</summary>
 
 #### Podcasts
+* [Transforming CRM DevOps at Airbnb - 2023](https://medium.com/airbnb-engineering/transforming-crm-devops-at-airbnb-a-powerful-framework-for-continuous-delivery-c84a9c18032e)
 * [Continuous Delivery at Airbnb - 2019](https://devops.com/devops-chat-continuous-delivery-at-airbnb)
 </details>
 
@@ -38,6 +39,7 @@ Happy Learning!
 * [DevOps Resources](https://aws.amazon.com/devops/resources)
 
 #### Blog
+* [How Amazon Does DevOps in Real Life](https://community.aws/posts/how-amazon-does-devops-in-real-life)
 * [AWS DevOps Blog](https://aws.amazon.com/blogs/devops/)
 
 </details>
